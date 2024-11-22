@@ -371,7 +371,7 @@ if (done) {
   // Animation is complete, display "Thank You"
   ctx.fillStyle = '#fff';
   ctx.font = '20px Verdana';
-  ctx.fillText('. I hope your Birthday is as beautiful and full of love as you are. You deserve only the best, and I wish that for you. Best wishes, my love.) . I hope your Birthday is as beautiful and full of love as you are. You deserve only the best, and I wish that for you. Best wishes, my love.', hw - ctx.measureText('. I hope your Birthday is as beautiful and full of love as you are. You deserve only the best, and I wish that for you. Best wishes, my love. . I hope your Birthday is as beautiful and full of love as you are. You deserve only the best, and I wish that for you. Best wishes, my love.)').width / 2, hh);
+  ctx.fillText('I have nothing for u. On your birthday, if u take I will give myself to u for forever', hw - ctx.measureText('I have nothing for u. On your birthday, if u take I will give myself to u for forever ;)').width / 2, hh);
 }
 
 }
